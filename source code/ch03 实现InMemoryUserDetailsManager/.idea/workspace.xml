@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b74fbd2-53d7-4e07-9f26-e9be9956f70f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ch02/.初探.assets/image-20220516174637991.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch02/.初探.assets/image-20220516174801519.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch02/.初探.assets/image-20220516175207844.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch02/.初探.assets/image-20220516183024653.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/src/main/java/com/dada/ch021/Ch021Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/src/main/java/com/dada/ch021/config/CustomAuthenticationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/src/main/java/com/dada/ch021/config/ProjectConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/src/main/java/com/dada/ch021/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/src/main/java/com/dada/ch021/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/src/test/java/com/dada/ch021/Ch021ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ch02/初探.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\IDEA\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../../../IDEA/files/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\IDEA\files\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="29FFgHRsn4hdmD8Y9dMzMCWt7TL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://tom:12345@localhost:8080/hello" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://tom:123456@localhost:8080/hello" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://tom1:12345@localhost:8080/hello" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://tom1:123456@localhost:8080/hello" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.generated-requests#1">
+    <configuration name="generated-requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ch03Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ch03" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dada.ch03.Ch03Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b74fbd2-53d7-4e07-9f26-e9be9956f70f" name="Default Changelist" comment="" />
+      <created>1652701035437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652701035437</updated>
+      <workItem from="1652701043836" duration="2829000" />
+      <workItem from="1652750042690" duration="259000" />
+      <workItem from="1652750481389" duration="747000" />
+      <workItem from="1652752159872" duration="1072000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1652702633047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1652702633047" />
+    <state width="1492" height="311" key="GridCell.Tab.0.bottom" timestamp="1652703266708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="311" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1652703266708" />
+    <state width="1492" height="311" key="GridCell.Tab.0.center" timestamp="1652703266708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="311" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1652703266708" />
+    <state width="1492" height="311" key="GridCell.Tab.0.left" timestamp="1652703266708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="311" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1652703266708" />
+    <state width="1492" height="311" key="GridCell.Tab.0.right" timestamp="1652703266708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="311" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1652703266708" />
+    <state width="1492" height="311" key="GridCell.Tab.1.bottom" timestamp="1652702937371">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="311" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1652702937371" />
+    <state width="1492" height="311" key="GridCell.Tab.1.center" timestamp="1652702937370">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="311" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1652702937370" />
+    <state width="1492" height="311" key="GridCell.Tab.1.left" timestamp="1652702937369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="311" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1652702937369" />
+    <state width="1492" height="311" key="GridCell.Tab.1.right" timestamp="1652702937370">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="311" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1652702937370" />
+    <state x="178" y="72" key="new project wizard" timestamp="1652750300411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1652750300411" />
+  </component>
+</project>
