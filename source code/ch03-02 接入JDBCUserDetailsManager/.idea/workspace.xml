@@ -2,20 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bfeb6fc-5270-4dab-ab2b-c2f45e75301f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../ch02/.初探.assets/image-20220516174637991.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ch02/.初探.assets/image-20220516174801519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ch02/.初探.assets/image-20220516175207844.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ch02/.初探.assets/image-20220516183024653.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/src/main/java/com/dada/ch021/Ch021Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/src/main/java/com/dada/ch021/config/CustomAuthenticationProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/src/main/java/com/dada/ch021/config/ProjectConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/src/main/java/com/dada/ch021/config/WebConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/src/main/java/com/dada/ch021/controller/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ch02/ch02-1/src/test/java/com/dada/ch021/Ch021ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ch02/初探.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03 实现InMemoryUserDetailsManager/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03 实现InMemoryUserDetailsManager/target/classes/com/dada/ch03/Ch03Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03 实现InMemoryUserDetailsManager/target/classes/com/dada/ch03/config/MyInMemoryUserDetailsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03 实现InMemoryUserDetailsManager/target/classes/com/dada/ch03/config/MyUserDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03 实现InMemoryUserDetailsManager/target/classes/com/dada/ch03/config/ProjectConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03 实现InMemoryUserDetailsManager/target/classes/com/dada/ch03/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03 实现InMemoryUserDetailsManager/target/classes/com/dada/ch03/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03 实现InMemoryUserDetailsManager/target/test-classes/com/dada/ch03/Ch03ApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dada/ch0302/Ch0302Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dada/ch0302/config/ProjectConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dada/ch0302/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dada/ch0302/Ch0302ApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652750590782</updated>
       <workItem from="1652750593821" duration="1270000" />
-      <workItem from="1652753260055" duration="360000" />
+      <workItem from="1652753260055" duration="1127000" />
     </task>
     <servers />
   </component>
