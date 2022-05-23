@@ -1,0 +1,11 @@
+
+
+auth:
+  url: "http://localhost:8080"
+  auth: "/user/auth"
+  check: "/check"
+
+staticKey: "1234567890_1234567890_1234567890" #32¸ö×Ö·û
+
+server:
+  port: 9090
