@@ -1,0 +1,23 @@
+POST http://client:secret@localhost:8080/oauth/token
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=password&username=tom&password=123456&scope=read
+
+###
+POST http://client1:secret1@localhost:8080/oauth/token
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=client_credentials&scope=info
+
+###
+POST http://client2:secret2@localhost:8080/oauth/token
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=password&username=tom&password=123456&scope=read
+
+###
+POST http://client2:secret2@localhost:8080/oauth/token
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=refresh_token&scope=read&refresh_token=29e18400-50b8-40c4-93f0-32614c57c940&
+
